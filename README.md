@@ -15,3 +15,7 @@ $ npm install
 ```bash
 $ npm start
 ```
+
+3. Open app
+
+http://localhost:1234/elm-my-spa/
