@@ -1,5 +1,7 @@
 # elm-my-spa
 
+**WARNING: This repository is outdated and not maintained anymore.**
+
 elm-my-spa is an elm SPA template inspired by [elm-spa-example](https://github.com/rtfeldman/elm-spa-example).
 
 ## Getting Started
